@@ -19,11 +19,19 @@ def get_disease_possible_steps(idx):
     else:
         return "No information available."
 
-st.markdown("""
-    <style>
-    .block-container {
-        padding-top: 1rem;
-    }
+st.markdown(
+    """
+     <style>
+        .block-container {
+            padding-top: 0rem;
+            padding-bottom: 0rem;
+        }
+        .css-z5fcl4 {
+            padding-top: 0rem;
+            padding-bottom: 0rem;
+        }
+        header {visibility: hidden;}
+        .css-1vq4p4l {padding: 0rem;}
     </style>
     """, unsafe_allow_html=True)
 
