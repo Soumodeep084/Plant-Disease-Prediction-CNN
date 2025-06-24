@@ -4,8 +4,8 @@ A Deep Learning-powered web application built using **Convolutional Neural Netwo
 
 
 ## 🚀 Demo Video
-A demo video is available in this repository
-
+A demo video (~ 6.8 MB)  is available in this repository
+Click on `view raw` and the video will get downloaded.
 
 ### Setup
 ```bash
