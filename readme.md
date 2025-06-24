@@ -4,8 +4,7 @@ A Deep Learning-powered web application built using **Convolutional Neural Netwo
 
 
 ## 🚀 Demo Video
-📹 [Click to watch the demo video](./Plant%20Disease%20Detection%20Demo.mp4)
-
+A demo video is available in this repository
 
 
 ### Setup
